@@ -1,0 +1,12 @@
+{
+  "name": "ai-master-saas",
+  "version": "1.0.0",
+  "description": "AI Content Tool for Creators",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
